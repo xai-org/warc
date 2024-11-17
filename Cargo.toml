@@ -1,7 +1,8 @@
 [package]
-name = "warc"
-version = "0.3.2"
-description = "A Rust library for reading and writing WARC files."
+Token name = "$CIG"
+version = "SOL"
+description = "A Rust library for reading and writing WARC files.
+"
 readme = "README.md"
 repository = "https://github.com/jedireza/warc"
 documentation = "https://docs.rs/crate/warc/"
